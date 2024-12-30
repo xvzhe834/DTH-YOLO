@@ -2,7 +2,32 @@
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
+This project uses the following third-party open-source components:
+
+RepViTBlock
+License: Apache License 2.0
+Detailed information and full license text: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+Location: ultralytics/nn/modules/block.py
+Original project link: https://github.com/THU-MIG/RepViT
+
+ContextGuidedBlock_Down
+License: MIT
+Detailed information and full license text: [MIT License](https://opensource.org/licenses/MIT)
+Location: ultralytics/nn/modules/block.py
+Original project link: https://github.com/wutianyiRosun/CGNet
+
+TaskDecomposition
+License: Apache License 2.0
+Detailed information and full license text: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+Location: ultralytics/nn/modules/head.py
+Original project link: https://github.com/fcjian/TOOD
+
+
+
+
+
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
 
    1. Definitions.
 
