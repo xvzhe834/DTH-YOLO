@@ -27,29 +27,5 @@ If DTH-YOLO is useful for your research, please consider citing:
 ```
 
 ```
-## License
-
-This code is released under the Apache License. See [LICENSE](LICENSE) for additional details.
-
-
-Additionally, this project uses the following third-party open-source components:
-
-RepViTBlock  
-License: Apache License 2.0  
-Detailed information and full license text: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-Location: ultralytics/nn/modules/block.py
-Original project link: https://github.com/THU-MIG/RepViT
-
-ContextGuidedBlock_Down  
-License: MIT
-Detailed information and full license text: [MIT License](https://opensource.org/licenses/MIT)
-Location: ultralytics/nn/modules/block.py
-Original project link: https://github.com/wutianyiRosun/CGNet
-
-TaskDecomposition  
-License: Apache License 2.0
-Detailed information and full license text: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-Location: ultralytics/nn/modules/head.py
-Original project link: https://github.com/fcjian/TOOD
 
 
