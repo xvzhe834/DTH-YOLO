@@ -12,7 +12,7 @@ Head (DTH) to enhance feature alignment across different tasks and improve detec
 design the C2f-RVB module to optimize the feature extraction process, significantly reducing model parameters 
 and computational costs. Finally, we introduce the Context Guided Block (CGB) for downsampling, effectively 
 capturing contextual information in the target area, thereby improving detection performance for small objects.
-Experimental results show that, on a custom aerial mousehole dataset, the DTH-YOLO model achieves an 8.4\% increase 
+Experimental results show that, on a custom aerial mousehole dataset, the DTH-YOLO model achieves an 8.5\% increase 
 in mAP@0.5, a 5.6\% improvement in precision, a 42\% reduction in parameters, and a 22\% decrease in GFLOPs compared 
 to the baseline YOLOv8n model. Furthermore, ablation studies demonstrate the effectiveness of each proposed module.
 
