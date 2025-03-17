@@ -25,6 +25,16 @@ to the baseline YOLOv8n model. Furthermore, ablation studies demonstrate the eff
 ## Citation
 If DTH-YOLO is useful for your research, please consider citing:
 ```
+@ARTICLE{10908834,
+  author={Xu, Zhe and Luo, Xiaoling and Gao, Xiaojing and Pan, Xin},
+  journal={IEEE Access}, 
+  title={DTH-YOLO: Enhanced YOLOv8n With Dynamic Task-Aligned Head for Mousehole Detection}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={44912-44927},
+  keywords={Feature extraction;Accuracy;YOLO;Proposals;Convolution;Rodents;Grasslands;Computational modeling;Autonomous aerial vehicles;Adaptation models;YOLOv8n;object detection;deep learning;mousehole},
+  doi={10.1109/ACCESS.2025.3546946}}
 
 ```
 
