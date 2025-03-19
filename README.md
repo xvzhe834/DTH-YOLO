@@ -1,4 +1,4 @@
-# [DTH-YOLO: Enhanced YOLOv8n with Dynamic Task-Aligned Head for mouseholes Detection](https://doi.org/10.1109/ACCESS.2025.3546946)
+# [DTH-YOLO: Enhanced YOLOv8n with Dynamic Task-Aligned Head for Mouseholes Detection](https://doi.org/10.1109/ACCESS.2025.3546946)
 ## Introduction
 In recent years, the increasing number of mouseholes in grassland areas has accelerated desertification, 
 leading to a decline in grassland productivity and severely impacting the economic benefits of herders. 
